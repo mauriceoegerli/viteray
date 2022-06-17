@@ -21,7 +21,7 @@ specifiers:
   rollup-plugin-esbuild: 4.8.2
   rollup-plugin-preserve-shebangs: 0.2.0
   serve-static: ^1.14.1
-  typescript: 4.6.3
+  typescript: 4.7.4
   vite: ^2.6.14
   yargs: ^17.2.1
 
@@ -50,7 +50,7 @@ devDependencies:
   rollup: 2.75.3
   rollup-plugin-esbuild: 4.8.2_esbuild@0.14.11+rollup@2.75.3
   rollup-plugin-preserve-shebangs: 0.2.0_rollup@2.75.3
-  typescript: 4.6.3
+  typescript: 4.7.4
 
 packages:
 
@@ -1193,8 +1193,8 @@ packages:
       through2: 1.1.1
     dev: false
 
-  /typescript/4.6.3:
-    resolution: {integrity: sha512-yNIatDa5iaofVozS/uQJEl3JRWLKKGJKh6Yaiv0GLGSuhpFJe7P3SbHZ8/yjAHRQwKRoA6YZqlfjXWmVzoVSMw==}
+  /typescript/4.7.4:
+    resolution: {integrity: sha512-C0WQT0gezHuw6AdY1M2jxUO83Rjf0HP7Sk1DtXj6j1EwkQNZrHAg2XPWlq62oqEhYvONq5pkC2Y9oPljWToLmQ==}
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: true
